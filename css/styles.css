@@ -13,7 +13,15 @@ header {
     align-items: center;
     padding: 0 40px;
 }
-
+ul li a:hover {
+    color: #404BBF;
+}   
+address ul li a:hover {
+    color: #404BBF;
+}
+button:hover {
+    background-color: #404BBF;
+}
 
 .logo {
     font-size: 18px;
